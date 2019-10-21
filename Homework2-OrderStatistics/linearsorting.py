@@ -1,3 +1,6 @@
+# Atilla Alpay Nalcaci - 19510
+# HW2 Linear-time Sorting Algorithm
+
 import matplotlib.pyplot as plt
 import math
 from timeit import default_timer as timer
